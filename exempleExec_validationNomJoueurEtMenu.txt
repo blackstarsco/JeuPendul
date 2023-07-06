@@ -1,0 +1,92 @@
+
+*************************
+* JEU DU BONHOMME PENDU *
+*************************
+
+
+
+Entrez votre nom : me
+
+Erreur, votre nom doit contenir entre 3 et 10 LETTRES... Recommencez!
+Entrez votre nom : xxxxxxxxxxx
+
+Erreur, votre nom doit contenir entre 3 et 10 LETTRES... Recommencez!
+Entrez votre nom : me2
+
+Erreur, votre nom doit contenir entre 3 et 10 LETTRES... Recommencez!
+Entrez votre nom : xxxx5xxxxx
+
+Erreur, votre nom doit contenir entre 3 et 10 LETTRES... Recommencez!
+Entrez votre nom : 
+
+Erreur, votre nom doit contenir entre 3 et 10 LETTRES... Recommencez!
+Entrez votre nom : Mel
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 0
+
+Erreur, votre choix doit etre entre 1 et 3... Recommencer!
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 4
+
+Erreur, votre choix doit etre entre 1 et 3... Recommencer!
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 11
+
+Erreur, votre choix doit etre entre 1 et 3... Recommencer!
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 
+
+Erreur, votre choix doit etre entre 1 et 3... Recommencer!
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : a
+
+Erreur, votre choix doit etre entre 1 et 3... Recommencer!
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 3
+Voulez-vous vraiment quitter le programme (oui/non) ? oui
+
+
+A U   R E V O I R
+

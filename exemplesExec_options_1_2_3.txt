@@ -1,0 +1,700 @@
+
+*************************
+* JEU DU BONHOMME PENDU *
+*************************
+
+
+
+Entrez votre nom : mel
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 2
+
+*** AUCUNE STATISTIQUE ***
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 1
+Entrez le niveau de difficulte (1 a 3) : 0
+
+Erreur, le niveau de difficulte doit etre entre 1 et 3... Recommencez!
+Entrez le niveau de difficulte (1 a 3) : 4
+
+Erreur, le niveau de difficulte doit etre entre 1 et 3... Recommencez!
+Entrez le niveau de difficulte (1 a 3) : 3
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+MEL, entrez une lettre : 3
+
+Erreur, vous devez entrez une lettre... Recommencez!
+MEL, entrez une lettre : $
+
+Erreur, vous devez entrez une lettre... Recommencez!
+MEL, entrez une lettre : 
+
+Erreur, vous devez entrez une lettre... Recommencez!
+MEL, entrez une lettre : aa
+
+Erreur, vous devez entrez une lettre... Recommencez!
+MEL, entrez une lettre : E
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ _ _ _ _ E _ _ E 
+
+
+MEL, entrez une lettre : a
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ A _ _ _ E _ _ E 
+
+
+MEL, entrez une lettre : t
+
+Il n'y a pas de lettre(s) T dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ A _ _ _ E _ _ E 
+
+
+MEL, entrez une lettre : V
+
+Il n'y a pas de lettre(s) V dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |    | 
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ A _ _ _ E _ _ E 
+
+
+MEL, entrez une lettre : w
+
+Il n'y a pas de lettre(s) W dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /| 
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ A _ _ _ E _ _ E 
+
+
+MEL, entrez une lettre : P
+
+Il n'y a pas de lettre(s) P dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ A _ _ _ E _ _ E 
+
+
+MEL, entrez une lettre : I
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+MOT CACHE : _ _ I _ _ A I _ _ E _ I E 
+
+
+MEL, entrez une lettre : I
+
+La lettre I est deja decouverte... Recommencez!
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+MOT CACHE : _ _ I _ _ A I _ _ E _ I E 
+
+
+MEL, entrez une lettre : P
+
+Il n'y a pas de lettre(s) P dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : _ _ I _ _ A I _ _ E _ I E 
+
+
+MEL, entrez une lettre : p
+
+Il n'y a pas de lettre(s) P dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   / \
+ |
+===
+
+Vous etes mort!!!
+Le mot cache etait : QUINCAILLERIE
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 2
+
+STATISTIQUES POUR MEL
+------------------------------------
+Nombre de parties jouees  : 1
+Nombre de parties gagnees : 0
+
+------------------------------------
+Score final               : 0,00 %
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 1
+Entrez le niveau de difficulte (1 a 3) : 1
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ _ 
+
+
+MEL, entrez une lettre : s
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : S _ _ _ _ _ 
+
+
+MEL, entrez une lettre : l
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : S _ L _ _ L 
+
+
+MEL, entrez une lettre : w
+
+Il n'y a pas de lettre(s) W dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |      
+ |      
+ |
+===
+
+MOT CACHE : S _ L _ _ L 
+
+
+MEL, entrez une lettre : t
+
+Il n'y a pas de lettre(s) T dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |    | 
+ |      
+ |
+===
+
+MOT CACHE : S _ L _ _ L 
+
+
+MEL, entrez une lettre : o
+
+ ______
+ |    |
+ |    0
+ |    | 
+ |      
+ |
+===
+
+MOT CACHE : S O L _ _ L 
+
+
+MEL, entrez une lettre : e
+
+ ______
+ |    |
+ |    0
+ |    | 
+ |      
+ |
+===
+
+MOT CACHE : S O L E _ L 
+
+
+MEL, entrez une lettre : c
+
+Il n'y a pas de lettre(s) C dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /| 
+ |      
+ |
+===
+
+MOT CACHE : S O L E _ L 
+
+
+MEL, entrez une lettre : f
+
+Il n'y a pas de lettre(s) F dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+MOT CACHE : S O L E _ L 
+
+
+MEL, entrez une lettre : i
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+Bravo MEL vous avez gagne la partie!!!
+Le mot cache etait : SOLEIL
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 2
+
+STATISTIQUES POUR MEL
+------------------------------------
+Nombre de parties jouees  : 2
+Nombre de parties gagnees : 1
+
+------------------------------------
+Score final               : 50,00 %
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 1
+Entrez le niveau de difficulte (1 a 3) : 2
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+MEL, entrez une lettre : a
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ A _ _ _ _ _ A _ _ _ _ 
+
+
+MEL, entrez une lettre : p
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ _ _ _ 
+
+
+MEL, entrez une lettre : e
+
+ ______
+ |    |
+ |     
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : g
+
+Il n'y a pas de lettre(s) G dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |      
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : l
+
+Il n'y a pas de lettre(s) L dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |    | 
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : x
+
+Il n'y a pas de lettre(s) X dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /| 
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : w
+
+Il n'y a pas de lettre(s) W dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : a
+
+La lettre A est deja decouverte... Recommencez!
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |      
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : y
+
+Il n'y a pas de lettre(s) Y dans ce mot.
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A _ E _ _ 
+
+
+MEL, entrez une lettre : T
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A T E _ _ 
+
+
+MEL, entrez une lettre : u
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : _ A P _ _ _ _ A T E U _ 
+
+
+MEL, entrez une lettre : v
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : V A P _ _ _ _ A T E U _ 
+
+
+MEL, entrez une lettre : o
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : V A P O _ _ _ A T E U _ 
+
+
+MEL, entrez une lettre : r
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : V A P O R _ _ A T E U R 
+
+
+MEL, entrez une lettre : i
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+MOT CACHE : V A P O R I _ A T E U R 
+
+
+MEL, entrez une lettre : S
+
+ ______
+ |    |
+ |    0
+ |   /|\
+ |   /  
+ |
+===
+
+Bravo MEL vous avez gagne la partie!!!
+Le mot cache etait : VAPORISATEUR
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 2
+
+STATISTIQUES POUR MEL
+------------------------------------
+Nombre de parties jouees  : 3
+Nombre de parties gagnees : 2
+
+------------------------------------
+Score final               : 66,67 %
+
+Appuyez sur <ENTREE> pour revenir au menu principal...
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 3
+Voulez-vous vraiment quitter le programme (oui/non) ? o
+
+Erreur, repondez par oui ou non... Recommencez!
+Voulez-vous vraiment quitter le programme (oui/non) ? n
+
+Erreur, repondez par oui ou non... Recommencez!
+Voulez-vous vraiment quitter le programme (oui/non) ? ouii
+
+Erreur, repondez par oui ou non... Recommencez!
+Voulez-vous vraiment quitter le programme (oui/non) ? 
+
+Erreur, repondez par oui ou non... Recommencez!
+Voulez-vous vraiment quitter le programme (oui/non) ? Non
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 3
+Voulez-vous vraiment quitter le programme (oui/non) ? NON
+
+----
+MENU
+----
+1. Jouer
+2. Afficher statistiques
+3. Quitter
+
+Entrez votre choix : 3
+Voulez-vous vraiment quitter le programme (oui/non) ? OuI
+
+
+A U   R E V O I R
+

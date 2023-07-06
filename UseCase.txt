@@ -1,0 +1,67 @@
+LANCEMENT DU PROGRAMME
+    1- Afficher nom du jeu
+    2- Demander nom du joueur
+    3- Valider nom entré (chaine de caractere compris entre 3 et 10, minuscule, majuscule ou les deux)
+
+    4- Affichage du menu de 3 options
+    5- Choix de l'utilisateur
+    6- Valider le choix saisi (choix entre un et 3 exclusivement)
+
+OPTION 1 : JOUER
+    1- choix option
+    2- Niveau de difficulté
+    3- Validation niveau de difficulté (entier entre 1 et 3)
+
+Début de la partie
+    1- Affichage de l'échafaud et mot clé caché
+    2- Séparation des caratères du mot caché à l'affichage par un espace
+    3- Demande au joueur d'entrer une lettre
+    4- Le nom du joueur doit être écrit en majuscule et doit apparaître dans le message de sollicitation de la lettre
+    5- Valider que le caractère entré par l’utilisateur est bien une lettre
+    6- Seules les lettres de A à Z (majuscules ou minuscules) sont des valeurs valides.
+    7- Le mot caché affiché est cependant toujours écrit en majuscules
+
+CAS DE VERIFICATION DE LA LETTRE SAISIE PAR LE JOUEUR
+    1- Cas où la lettre saisie n'est pas dans le mot caché
+        -Affichage du message indiquant que la lettre saisie n'est pas dans le mot caché
+        -On affiche l'échafaud avec une partie du corps (la tête) pendu (cela signifie une premiere perte)
+        -Mot caché réaffiché
+        -On demande à nouveau au joueur d'entrer une lettre
+
+    2- La lettre entrée est dans le mot caché, et n’a pas encore été découverte
+        1- Affichage de nouveau l’échafaud (inchangé)
+        2- Affiche ensuite le mot caché en découvrant toutes les occurrences de la lettre saisie
+        3- Le programme demande de nouveau au joueur d’entrer une lettre
+
+    3- La lettre entrée est dans le mot caché, mais a déjà été découverte
+        1- Le programme affiche un message indiquant que le caractère entré a déjà été découvert dans le mot caché
+        2- le programme affiche de nouveau l’échafaud (inchangé)
+        3- Il affiche ensuite le mot caché (inchangé)
+        4- le programme demande de nouveau au joueur d’entrer une lettre
+
+
+ OPTION 2 : AFFICHER STATISTIQUES
+    1- Cas où l'utilisateur n'a pas encore joué
+        - On affiche *** AUCUNE STATISTIQUE ***
+    2- Pour un joueur
+        - le programme affiche le nombre de parties jouées
+        - le nombre de parties gagnées
+        - le score total en pourcentage (arrondi à deux décimales, et exactement avec 2 décimales)
+            Formule (nombre parties gagnées / nombre parties jouées * 100)
+    le programme demande ensuite à l’utilisateur d'appuyer sur ENTRÉE pour revenir au menu
+
+OPTION 3 : QUITTER
+    1- demande à l’utilisateur s’il veut vraiment quitter le programme
+    2- Les deux seules 'réponses valides sont oui ou non (en majuscules, minuscules ou les deux)
+        - Choix non
+            - le programme affiche de nouveau le menu, dans l’attente du choix de l’utilisateur
+        - Choix oui
+            -le programme affiche un message d’au revoir, et se termine.
+
+
+
+
+
+
+
+
